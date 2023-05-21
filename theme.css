@@ -6,7 +6,7 @@
 	--font-display: 'Open Sans', sans-serif;
 	--font-code: 'Source Code Pro', monospace;
 	--font-headline: 'Poppins', sans-serif;
-    --bg: #1e1e2e;
+    --bg: #181825;
     --fg: #cdd6f4;
     --selection: #7f849c;
     --comment: #cba6f7;
@@ -40,10 +40,10 @@
     --non-text: #3132441A;
     --white: #cdd6f4;
     --tab-drop-bg: #7f849c70;
-    --bg-lighter: #1e1e2e;
-    --bg-light: #45475a;
-    --bg-dark: #1e1e2e;
-    --bg-darker: #181825
+    --bg-lighter: #313244;
+    --bg-light: #1e1e2e;
+    --bg-dark: #181825;
+    --bg-darker: #11111b
 }
 
 [class*="theme-dark"],
