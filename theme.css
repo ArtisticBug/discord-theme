@@ -7,10 +7,10 @@
 	--font-code: 'Source Code Pro', monospace;
 	--font-headline: 'Poppins', sans-serif;
     --bg: #1e1e2e;
-    --fg: #181825;
+    --fg: #cdd6f4;
     --selection: #7f849c;
     --comment: #cba6f7;
-    --text-alt: #bac2de;
+    --text-alt: #181825;
     --cyan: #94e2d5;
     --green: #a6e3a1;
     --orange: #fab387;
@@ -30,7 +30,7 @@
     --color9: #f38ba8;
     --color10: #f9e2af;
     --color11: #a6e3a1;
-    --color12: #cba6f7;
+    --color12: #74c7ec;
     --color13: #cba6f7;
     --color14: #94e2d5;
     --color15: #cdd6f4;
