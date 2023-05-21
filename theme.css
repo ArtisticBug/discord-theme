@@ -10,7 +10,7 @@
     --fg: #181825;
     --selection: #7f849c;
     --comment: #cba6f7;
-    --text-alt: #181825;
+    --text-alt: #11111b;
     --cyan: #94e2d5;
     --green: #a6e3a1;
     --orange: #fab387;
@@ -37,7 +37,7 @@
     --color16: #181825;
     --temp-quotes: #f9e2af;
     --line-highlight: #7f849c75;
-    --non-text: #181825;
+    --non-text: #3132441A;
     --white: #cdd6f4;
     --tab-drop-bg: #7f849c70;
     --bg-lighter: #313244;
@@ -52,8 +52,8 @@
     --header-secondary: var(--color7);
     --text-normal: var(--white);
     --text-muted: var(--color8);
-    --text-link: hsl(267, 84%, 81%);
-    --text-link-low-saturation: hsla(267, 84%, 81%, 0.6);
+    --text-link: hsl(316, 72%, 86%);
+    --text-link-low-saturation: hsla(316, 72%, 86%, 0.6);
     --text-positive: hsl(226, 64%, 88%);
     --text-warning: hsla(343, 81%, 75%, 0.8);
     --text-danger: hsl(343, 81%, 75%);
