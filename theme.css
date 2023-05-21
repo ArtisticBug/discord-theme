@@ -73,7 +73,7 @@
     --background-modifier-hover: rgba(69, 71, 90, 0.10);
     --background-modifier-active: rgba(69, 71, 90, 0.20);
     --background-modifier-selected: rgba(69, 71, 90, 0.30);
-    --background-modifier-accent: rgba(24, 24, 37, 0.08);
+    --background-modifier-accent: rgba(49, 50, 68, 0.08);
     --info-positive-text: var(--white);
     --info-warning-text: var(--white);
     --info-danger-text: var(--white);
@@ -95,7 +95,7 @@
     --control-brand-foreground: hsl(41, 86%, 83%);
     --control-brand-foreground-new: hsl(41, 86%, 83%);
     --background-mentioned: hsla(240, 21%, 15%, 0.1);
-    --background-mentioned-hover: hsla(237, 16%, 23%, 0.2);
+    --background-mentioned-hover: hsla(240, 23%, 9%, 0.2);
     --background-message-hover: rgba(69, 71, 90, 0.1);
     --channels-default: hsla(228, 24%, 72%, 0.5);
     --guild-header-text-shadow: 0 1px 1px hsla(240, 21%, 15%, 0.4);
